@@ -1,0 +1,46 @@
+h1{
+	color: #fff;
+	background-color:;
+	font-style: inherit;
+	font-size: 45px;
+	text-align: center;
+	padding: 10px;
+	border:1px solid #fff;
+	border-radius: 15px;
+}
+div{
+	background-color: maroon;
+	color: #fff;
+	font-family: Arial;
+	text-align: left;
+	padding: 50px;
+	margin: 60px;
+	border-radius: 200px;
+	border:1px dashed blue;
+}
+body{
+	background-color: #000;
+}
+.envoyer{
+	margin-left: 250px;
+	background:green;
+	width: 114px;
+	height: 40px;
+	font-size: 20px;
+	font-family: Arial;
+}
+.retour{
+	background-color: #fff;
+	text-decoration: none;
+	margin-left: 500px;
+	font-style: inherit;
+	font-family: Arial;
+	color: maroon;
+}
+.Déconnexon{
+	text-decoration: none;
+	margin-left: 10000px;
+	font-style: inherit;
+	font-family: Arial;
+	color: maroon;
+}

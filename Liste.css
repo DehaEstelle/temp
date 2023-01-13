@@ -1,0 +1,32 @@
+body{
+	background-color: maroon;
+	text-align: justify;
+	font-family: Arial;
+	color: #fff;
+
+
+}
+h1{
+	font-family: Algerian;
+	text-align: center;
+	color: red;
+	background-color: #000;
+}
+.retour{
+	background-color: #fff;
+	text-decoration: none;
+	margin-left: 1000px;
+	font-style: inherit;
+	font-family: Arial;
+	color: maroon;
+}
+.bouger{
+	border-spacing: 150px;
+	word-spacing: 15px;
+	letter-spacing: 2px;
+}
+.bouger1{
+	border-spacing: 150px;
+	word-spacing: 15px;
+	letter-spacing: 2px;
+}

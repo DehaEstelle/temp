@@ -1,0 +1,38 @@
+h1{
+	background-color: maroon;
+	text-align: center;
+	padding: 20px;
+	margin: 30px;
+	font-style: italic;
+	color: #fff;
+	font-family: Arial;
+}
+body{
+	background-color: #575757;
+}
+form{
+	padding: 20px;
+	margin: 50px;
+	background-color: #000;
+	color: white;
+	text-align: center;
+	border-radius: 20px;
+	text-shadow: 2px 0 2px white;
+}
+form label{
+	font-family: Arial;
+	margin:10px;
+}
+p{
+	text-align: center;
+	font-style: italic;
+	
+}
+.retour{
+	background-color: #fff;
+	text-decoration: none;
+	margin-left: 500px;
+	font-style: inherit;
+	font-family: Arial;
+	color: maroon;
+}

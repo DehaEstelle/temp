@@ -1,0 +1,50 @@
+h1{
+	text-align: center;
+	color: white;
+}
+h2{
+	text-align: center;
+	font-style: italic;
+}
+body{
+	background-color: blue;
+
+}
+form{
+	padding: 20px;
+	margin: px;
+	width: 740px;
+	height: 200px;
+	border: 1px solid #fff;
+	background-color: blue;
+	font-family: Arial;
+	text-align: justify;
+	color: #fff;
+	margin-left: 300px;
+	font-family: Arial;
+	border: 1px double #fff;
+}
+.input2{
+	width: 400px;
+	height: 30px;
+	margin-left: 60px;
+}
+.input1{
+	width: 400px;
+	height: 30px;
+	margin-left: 40px;
+}
+.check{
+	width: 40px;
+	height: 15px;
+	margin-left: 160px;
+}
+.connecter{
+	margin-left: 470px;
+	background-color: green;
+	height: 35px;
+	color: #fff;
+}
+.h2{
+	color: #fff;
+}
